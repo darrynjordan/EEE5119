@@ -1,11 +1,6 @@
 # EEE5119F: Introduction to Radar
 ## Course Structure
-The second half of each day is dedicated to applying some of the most fundamental concepts that are taught in this course. We will use Jupyter notebooks to summarise content and run through sample problems. Students are encouraged to extend the content that is provided in these notebooks with additional formulae and exercises.
-
-- Decibels
-- Chapter 1
-- Chapter 2
-- Analytic Signals
+The second half of each day is dedicated to applying some of the most fundamental concepts that are taught in this course. We will use Jupyter notebooks to summarise content and run through sample problems. Students are encouraged to extend the content that is provided in these notebooks with additional formulae and exercises. The goal is to ensure the students understand and practice the fundamentals. Furthermore, important topics that are not covered by the first half of PoMR will be introduced.
 
 ### Skills
 - LaTeX
