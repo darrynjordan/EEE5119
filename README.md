@@ -1,31 +1,30 @@
 # EEE5119F: Introduction to Radar
-A collection of notebooks designed for the UCT EEE5119F introduction to radar course.
+## Course Structure
+The second half of each day is dedicated to applying some of the most fundamental concepts that are taught in this course. We will use Jupyter notebooks to summarise content and run through sample problems. Students are encouraged to extend the content that is provided in these notebooks with additional formulae and exercises. The goal is to ensure the students understand and practice the fundamentals. Furthermore, important topics that are not covered by the first half of PoMR will be introduced.
 
-[GitHub Repo](https://github.com/darrynjordan/EEE5119F)
+### Skills
+- LaTeX
+- Python (numpy, matplotlib)
+- Jupyter Notebooks
+- Git
 
-### Day 1
-[Colab Notebook](https://colab.research.google.com/github/darrynjordan/EEE5119F/blob/main/Day%201/day_1.ipynb)
-- General Overview
-- Radar Range Equation
-
-### Day 2
-[Colab Notebook](https://colab.research.google.com/github/darrynjordan/EEE5119F/blob/main/Day%202/day_2.ipynb)
-- Search, Detection & Interference
-- Propagation Effects & Mechanisms
-
-### Day 3
-[Colab Notebook](https://colab.research.google.com/github/darrynjordan/EEE5119F/blob/main/Day%203/day_3.ipynb)
-- Characteristics of Clutter
-- Target Reflectivity
-
-### Day 4
-[Colab Notebook](https://colab.research.google.com/github/darrynjordan/EEE5119F/blob/main/Day%204/day_4.ipynb)
-- Target Fluctuation Models
-- Doppler Phenomenology & Data Acquisition
-
-### Day 5
-[Colab Notebook](https://colab.research.google.com/github/darrynjordan/EEE5119F/blob/main/Day%205/day_5.ipynb)
-- Antennas
-- Transmitters
-- Receivers
-- Exciters
+## Getting Started
+### Local Notebook
+#### Python
+```bash
+sudo apt install python3
+```
+#### Git
+```bash
+sudo apt install git
+git clone https://github.com/darrynjordan/EEE5119F.git
+```
+#### Virtual Environment
+```bash
+python3 -m venv venv
+source venv/bin/activate
+pip3 install -r requirements.txt
+```
+### Important Links
+- [GitHub Repo](https://github.com/darrynjordan/EEE5119F)
+- [Google Colab](https://colab.google/)
